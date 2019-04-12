@@ -1,0 +1,8 @@
+feature   特色网站,特色课
+messageRepositoryWeb  信息化资源库
+mainWeb   主网站
+admin   管理后台
+
+
+assets    外部文件（css,js）
+file   上传的文件（编缉器）

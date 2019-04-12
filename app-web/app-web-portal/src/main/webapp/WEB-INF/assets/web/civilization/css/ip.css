@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+.top{float:left; width:1024px;}
+.top ul{}
+.top li{float:left; list-style:none; font-family:"微软雅黑"; font-size:19px; color:#FFF; margin-left:20px; margin-top:20px; margin-right:10px}
+.bm{width:500px; padding-left:410px; padding-top:150px; height:200px;}
+.bm ul{}
+.bm li{list-style:none; font-family:"微软雅黑"; background-image:url(../images/1123.jpg);height:36px; width:460px;}
